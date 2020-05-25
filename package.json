@@ -1,0 +1,25 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Core is a primarily classless scss utility framework built for ease of use and rapid deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Core",
+    "css",
+    "scss",
+    "utility",
+    "framework",
+    "style",
+    "design",
+    "classless"
+  ],
+  "author": "Bvilding",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "sanitize.css": "^11.0.1"
+  }
+}
