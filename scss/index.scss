@@ -1,8 +1,8 @@
-@import 'sanitize.css/sanitize';
+@import "../node_modules/sanitize.css/sanitize.css";
 @import './reset.scss';
 @import "./utility.scss";
 @import './typography.scss';
-@import './componensts.scss';
+@import './components.scss';
 @import './variables.scss';
 @import './mixins.scss';
 @import './classless.scss';

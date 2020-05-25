@@ -4,7 +4,7 @@
   "description": "Core is a primarily classless scss utility framework built for ease of use and rapid deployment.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "sass --watch ./scss/index.scss index.css"
   },
   "keywords": [
     "Core",
